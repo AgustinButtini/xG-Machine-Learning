@@ -1,0 +1,5 @@
+Unnamed: 0,id,start_x,start_y,minute,end_x,end_y,blocked_x,blocked_y,shot_outcome,player,is_own_goal,match_id,date,area,from_throw_in,shot_type,from_corner,from_freekick,from_open_play,from_fastbreak,from_penalty,from_setpiece,from_cross_open_play,shot_on_post
+32262,1964849808.0,93.6,50.1,70.0,,,99.0,49.6,SavedShot,,,,,Penalty box,False,Head,True,False,False,False,False,False,False,True
+48620,2330296305.0,80.4,50.0,64.0,,,,,MissedShots,,,,,Outside of the box,False,Head,False,False,True,False,False,False,False,False
+48737,2331787069.0,92.6,41.5,90.0,,,94.5,42.8,SavedShot,,,,,Penalty box,False,Head,True,False,False,False,False,False,False,False
+49286,2337572617.0,90.4,47.8,59.0,,,98.5,48.2,SavedShot,,,,,Penalty box,False,Other,False,False,True,False,False,False,False,True
